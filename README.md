@@ -1,4 +1,6 @@
 # Machine-Learning
-This repo contains practices on machine learning from hands on machine learning book 
+This repo contains practices on machine learning by applying projects.
 
-**Book: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**
+Reference 
+**Book: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**                                                                                                                                        
+**kaggle**
